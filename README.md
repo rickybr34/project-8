@@ -12,20 +12,21 @@ appointments, and cancellations.
 # What You Know Initially
 Providers have schedules and patients request appointments.
 The clinic needs to:
-• maintain patient and provider information;
-• schedule appointments;
-• prevent scheduling conflicts;
-• cancel appointments; and
-• help fill appointment openings.
+- maintain patient and provider information;
+- schedule appointments;
+- prevent scheduling conflicts;
+- cancel appointments; and
+- help fill appointment openings.
 # Your Team’s Responsibility
  Your team must determine:
-  • what appointment information is required;
-  • how provider availability is represented;
-  • what constitutes a scheduling conflict;
-  • how cancelled appointments are handled;
-  • whether different appointment types behave differently;
-  • how a waitlist should operate; and
-  • what administrative capabilities clinic staff require.
+ 
+  - what appointment information is required;
+  - how provider availability is represented;
+  - what constitutes a scheduling conflict;
+  - how cancelled appointments are handled;
+  - whether different appointment types behave differently;
+  - how a waitlist should operate; and
+  - what administrative capabilities clinic staff require.
 
   
 This project involves scheduling operations only; your system will not store clinical diagnoses or medical
