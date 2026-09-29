@@ -18,7 +18,7 @@ The clinic needs to:
 • cancel appointments; and
 • help fill appointment openings.
 # Your Team’s Responsibility
-# Your team must determine:
+ Your team must determine:
   • what appointment information is required;
   • how provider availability is represented;
   • what constitutes a scheduling conflict;
