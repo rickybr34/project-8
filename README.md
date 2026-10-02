@@ -34,6 +34,23 @@ The clinic needs to:
   - Providers
   - Patients
 
+# Functional Requirements
+ - maintain patient information
+ - maintain provider information
+ - manage provider availability
+ - able to schedule appointments
+ - allow appointment to be cancelled
+ - prevent scheduling conflicts
+ - manage patient waitlists
+ - help fill available appointment openings
+ 
+
+# Nonfunctional Requirements
+ - system should be easy/ convenient 
+ - system should repond to user actions within a reasonable amount of time
+ - have patient information should only be accessible to authorized users
+
+
   
 This project involves scheduling operations only; your system will not store clinical diagnoses or medical
 records.
