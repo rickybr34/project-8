@@ -28,6 +28,10 @@ The clinic needs to:
   - how a waitlist should operate; and
   - what administrative capabilities clinic staff require.
 
+# Stakeholder list
+  - The Clinic
+  - Patients
+
   
 This project involves scheduling operations only; your system will not store clinical diagnoses or medical
 records.
