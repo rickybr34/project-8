@@ -28,8 +28,10 @@ The clinic needs to:
   - how a waitlist should operate; and
   - what administrative capabilities clinic staff require.
 
-# Stakeholder list
+# Stakeholder(s) list
   - The Clinic
+  - Staff
+  - Providers
   - Patients
 
   
