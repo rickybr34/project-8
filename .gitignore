@@ -1,1 +1,16 @@
+
+# macOS
 .DS_Store
+
+# CMake build output
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.dylib
+*.exe
+
+# VS Code local configuration
+.vscode/
